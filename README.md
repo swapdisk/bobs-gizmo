@@ -1,6 +1,6 @@
 # Attention-getting IoT Gizmo
 
-What we have here is an M5Stack [Fire](https://docs.m5stack.com/en/core/fire) developer kit based on the ESP32 SoC microcontroller. The app was programmed using [UIFlow](https://docs.m5stack.com/en/quick_start/m5core/uiflow) Scratch-like graphical programming environment. Here's a screenshot of the program that generated [butest.py](./butext.py).
+What we have here is an M5Stack [Fire](https://docs.m5stack.com/en/core/fire) developer kit based on the ESP32 SoC microcontroller. The app was programmed using [UIFlow](https://docs.m5stack.com/en/quick_start/m5core/uiflow) Scratch-like graphical programming environment. Here's a screenshot of the program that generated [butext.py](./butext.py).
 
 ![UIFlow screenshot](./images/flow_screenshot.png)
 
